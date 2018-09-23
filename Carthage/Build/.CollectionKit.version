@@ -1,0 +1,18 @@
+{
+  "iOS" : [
+    {
+      "hash" : "4784784cd1547c56f0a77129bc430a6340d2cc48c49c4131c972acf4ec0c54c1",
+      "name" : "CollectionKit"
+    }
+  ],
+  "commitish" : "2.1.0",
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "Mac" : [
+
+  ]
+}
